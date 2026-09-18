@@ -4,14 +4,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=true&width=1000&lines=👋+Hi+There!+I'm+Manish+Kashyap;📊+Data+Analyst+|+AI+%26+ML+Engineer;🚀+Turning+Data+Into+Insights" alt="Dynamic Header">
+# 👋 Hi There! I'm **Manish Kashyap**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=true&width=900&lines=Data+Analyst+|+AI+ML+Engineer;Turning+Raw+Data+Into+Insights;Building+Dashboards+And+Models;Let%27s+Transform+Business+With+Data" alt="Dynamic Header" style="margin: 20px 0;">
 
-<!-- Animated Gradient Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a4c6-11eb-908a-139a6edaec5c.gif" alt="Gradient Separator">
+---
 
-### ✨ *Transforming Raw Data into Actionable Insights* ✨
+<h3 style="color: #00C6FF; font-size: 20px; margin: 20px 0;">
+  ✨ Transforming Raw Data into Actionable Insights ✨
+</h3>
+
+<p style="font-size: 16px; color: #0f0f0f; margin: 15px 0;">
+  📊 Data Analyst | 🤖 AI & ML Engineer | 💡 Business Intelligence Expert
+</p>
+
+---
 
 </div>
 
@@ -38,23 +45,52 @@
 ---
 
 <!-- ====================================================== -->
+<!--         QUICK ACCESS TO ALL PROJECTS                   -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+## 🔗 My Projects
+
+| 🍕 Pizza Sales | 🛍️ Swiggy | 🏬 Retail | 📈 Forecasting |
+|:---:|:---:|:---:|:---:|
+| SQL Analysis | BI Dashboard | Data Analysis | ML Prediction |
+
+| 🏗️ Decathlon | 💼 Portfolio | 👤 GitHub Profile |
+|:---:|:---:|:---:|
+| Advanced BI | Personal Site | Main Repository |
+
+</div>
+
+---
+
+<!-- ====================================================== -->
 <!--                  ABOUT ME SECTION                      -->
 <!-- ====================================================== -->
 
 ## 👨‍💼 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWoLvyl/giphy.gif" width="300" style="border-radius:20px; margin-left:20px; margin-bottom:10px"/>
+<div style="text-align: left;">
 
 Hi! I'm **Manish Kashyap**, a passionate **Data Analyst & AI/ML Engineer** dedicated to uncovering hidden patterns in data and delivering data-driven solutions.
 
-📍 **Currently:** Data Analytics Enthusiast | B.Tech CSE (AI/ML/DL) @ TMU  
-💼 **Experience:** Ex-Data Analyst Intern @ 3Skill (2-Month Internship)  
-🎯 **Focus:** Building impactful data projects & exploring AI/ML frontiers  
-🚀 **Open to:** Full-time Data Analyst & ML Engineer opportunities
+**📍 Currently:** Data Analytics Enthusiast | B.Tech CSE (AI/ML/DL) @ TMU  
+**💼 Experience:** Ex-Data Analyst Intern @ 3Skill (2-Month Internship)  
+**🎯 Focus:** Building impactful data projects & exploring AI/ML frontiers  
+**🚀 Open to:** Full-time Data Analyst & ML Engineer opportunities
 
-I love converting **complex datasets into interactive dashboards, predictive models, and business insights** that drive real impact.
+### My Mission
+I love converting **complex datasets into interactive dashboards, predictive models, and business insights** that drive real impact. Whether it's SQL optimization, Power BI visualization, or machine learning predictions, I'm committed to delivering data-driven solutions.
 
-<br/><br/>
+### What Drives Me
+- 📊 Transforming raw data into beautiful, actionable insights
+- 🚀 Building end-to-end analytics solutions
+- 💡 Solving real business problems with data
+- 🎓 Continuously learning and growing
+
+</div>
+
+<br/>
 
 ---
 
@@ -105,53 +141,40 @@ I love converting **complex datasets into interactive dashboards, predictive mod
 <!--            EXPERIENCE & INTERNSHIP                     -->
 <!-- ====================================================== -->
 
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Data Analyst Intern @ 3Skill
-**Duration:** 2-Month Internship (Completed)
-
-**Key Achievements:**
-- ✅ Performed comprehensive EDA on large datasets
-- ✅ Created 15+ interactive dashboards
-- ✅ Reduced data processing time by 40%
-- ✅ Implemented automated reporting pipelines
-- ✅ Delivered actionable business insights
-
-**Skills Applied:**
-- Data Cleaning & Preprocessing
-- SQL Query Optimization
-- Power BI Dashboard Development
-- Excel Automation
-- Stakeholder Communication
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:15px;"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--               EDUCATION                               -->
-<!-- ====================================================== -->
-
-## 🎓 Education
+## 👤 Personal Details
 
 <div align="center">
 
-| **Degree** | **Institution** | **Specialization** | **Duration** |
-|:---:|:---:|:---:|:---:|
-| B.Tech CSE | Teerthanker Mahaveer University | AI, ML & Deep Learning | 2023 - 2027 |
+| Detail | Information |
+|:---:|:---:|
+| **Full Name** | Manish Kashyap |
+| **Email** | manishkshyp0123@gmail.com |
+| **Location** | India 🇮🇳 |
+| **Current Status** | Available for Full-Time Opportunities |
+| **Experience** | 2-Month Data Analyst Internship @ 3Skill |
+| **Education** | B.Tech CSE (AI/ML/DL) - TMU (2023-2027) |
+| **Work Mode** | Remote / Hybrid / On-Site |
 
 </div>
+
+---
+
+## 📚 Education & Background
+
+**Teerthanker Mahaveer University (TMU), Moradabad**
+- 🎓 **Degree:** B.Tech in Computer Science Engineering
+- 🔧 **Specialization:** Artificial Intelligence, Machine Learning & Deep Learning
+- ⏰ **Duration:** 2023 - 2027
+- 📌 **Focus:** Data Analytics, BI, and ML Applications
+
+---
+
+## 💼 Professional Experience
+
+**Data Analyst Intern @ 3Skill**
+- ⏱️ **Duration:** 2-Month Internship (Completed)
+- 📊 **Focus:** Data Analysis, Reporting, Visualization, and Business Insights
+- 🎯 **Availability:** Open to Full-Time Data Analyst Positions
 
 ---
 
@@ -182,153 +205,135 @@ I love converting **complex datasets into interactive dashboards, predictive mod
 ---
 
 <!-- ====================================================== -->
-<!--            FEATURED PROJECTS                           -->
+<!--            PROJECTS SHOWCASE                           -->
 <!-- ====================================================== -->
 
-## 🚀 Featured Projects
-
-<details open>
-<summary><strong>📊 E-Commerce Sales Analytics Dashboard</strong></summary>
-
-- **Description:** Interactive Power BI dashboard analyzing sales trends, customer behavior, and revenue metrics
-- **Tech Stack:** Power BI, SQL, Excel
-- **Impact:** Identified 25% revenue opportunity in underperforming regions
-- **Highlights:** Real-time KPI tracking, Drill-down analysis, Executive summary
-
-</details>
-
-<details open>
-<summary><strong>🎬 Movie Recommendation System (ML)</strong></summary>
-
-- **Description:** Collaborative filtering-based recommendation engine using Python
-- **Tech Stack:** Python, Pandas, Scikit-learn, NumPy
-- **Accuracy:** 87% prediction accuracy
-- **Highlights:** Content-based & collaborative filtering, Data preprocessing pipeline
-
-</details>
-
-<details open>
-<summary><strong>📱 Customer Churn Prediction Model</strong></summary>
-
-- **Description:** Machine learning model predicting customer churn with 89% accuracy
-- **Tech Stack:** Python, Scikit-learn, Matplotlib, Seaborn
-- **Business Impact:** Identified high-risk customers for retention campaigns
-- **Highlights:** Feature engineering, Model optimization, SHAP explainability
-
-</details>
-
-<details open>
-<summary><strong>🏥 Healthcare Data Analysis</strong></summary>
-
-- **Description:** Comprehensive analysis of patient data for medical insights
-- **Tech Stack:** Python, SQL, Tableau, Excel
-- **Key Findings:** Optimized resource allocation patterns
-- **Highlights:** Statistical analysis, Data quality assessment, Visualization
-
-</details>
-
----
-
-<!-- ====================================================== -->
-<!--           GITHUB STATISTICS                            -->
-<!-- ====================================================== -->
-
-## 📊 GitHub Statistics
+## 📂 My Projects on GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### Top 7 Repositories
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/💼_PORTFOLIO-Visit-00C6FF?style=for-the-badge&labelColor=0f2027)](https://portfolio-ci5f.vercel.app/)
+[![ilikemanish](https://img.shields.io/badge/👤_ilikemanish-Repo-2c5364?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap/ilikemanish)
+[![Swiggy Dashboard](https://img.shields.io/badge/🛍️_Swiggy_Dashboard-Repo-00C6FF?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap)
+
+[![Retail Analysis](https://img.shields.io/badge/🏬_Retail_Analysis-Repo-2c5364?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap)
+[![Sales Forecasting](https://img.shields.io/badge/📈_Sales_Forecasting-Repo-00C6FF?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap)
+[![Decathlon BI](https://img.shields.io/badge/🏗️_Decathlon_BI-Repo-2c5364?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap)
+[![Pizza Analysis](https://img.shields.io/badge/🍕_Pizza_Analysis-Repo-00C6FF?style=for-the-badge&labelColor=0f2027)](https://github.com/Manish-kashyap)
 
 </div>
 
 ---
 
 <!-- ====================================================== -->
-<!--           ACTIVITY STREAK                              -->
+<!--           QUICK FACTS ABOUT ME                         -->
 <!-- ====================================================== -->
+
+## 🎯 Quick Facts About Me
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish-kashyap&theme=tokyonight&hide_border=true)](https://github.com/Manish-kashyap)
+- 🔥 **Passionate** about Data Analytics and Business Intelligence
+- 🚀 **Goal-Oriented** with a focus on delivering real value
+- 📚 **Continuous Learner** exploring AI/ML technologies
+- 🤝 **Team Player** who loves collaborating and sharing knowledge
+- 💡 **Problem Solver** turning complex data into actionable insights
+- ⚡ **Quick Learner** adapting to new tools and technologies
+- 🎯 **Result-Driven** focused on business impact
 
 </div>
-
----
-
-<!-- ====================================================== -->
-<!--           TESTIMONIALS & QUOTES                        -->
-<!-- ====================================================== -->
-
-## 💬 What I Bring to the Table
-
-> 💡 **Data-Driven Decision Making:** I transform complex datasets into clear, actionable insights that drive business growth.
-
-> 🎯 **Problem Solver:** Armed with Python, SQL, and BI tools, I tackle challenges with precision and creativity.
-
-> 🚀 **Continuous Learner:** Always exploring new techniques in AI, ML, and advanced analytics.
-
-> 🤝 **Team Player:** Excellent communicator who bridges the gap between technical and non-technical stakeholders.
-
----
-
-<!-- ====================================================== -->
-<!--              CERTIFICATION BADGES                      -->
-<!-- ====================================================== -->
-
-## 🏆 Certifications & Achievements
-
-- 🥇 Data Analytics & Visualization Specialist
-- 🥈 Python for Data Science
-- 🥉 SQL & Database Management
-- ⭐ Machine Learning Fundamentals
-- ⭐ Business Intelligence & KPI Reporting
-
----
 
 <!-- ====================================================== -->
 <!--            CONNECT WITH ME                             -->
 <!-- ====================================================== -->
 
-## 🌐 Let's Connect!
+## 🌐 Connect With Me
 
 <div align="center">
 
-<h3>Find me on different platforms 👇</h3>
+### Let's Stay in Touch! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish-kashyap)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkshyp0123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C6FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ci5f.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+**Reach out for collaboration, opportunities, or just a friendly chat!**
 
-<br/>
+</div>
 
-### 📧 Feel free to reach out for:
-- 💼 **Full-Time Opportunities** in Data Analytics & ML
-- 🤝 **Collaboration** on exciting data projects
-- 📚 **Knowledge Sharing** & mentoring
-- 💡 **Project Discussions** & feedback
+---
+
+### 📧 Direct Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-manishkshyp0123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkshyp0123@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
+
+</div>
+
+---
+
+### 🤝 Social Media & Professional Networks
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Kashyap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kashyap)
+[![GitHub](https://img.shields.io/badge/GitHub-Manish--kashyap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish-kashyap)
+[![Twitter](https://img.shields.io/badge/Twitter-@ManishKashyap-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManishKashyap)
+
+[![Medium](https://img.shields.io/badge/Medium-@manishkashyap-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manishkashyap)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ci5f.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-2c5364?style=for-the-badge&logo=googledrive&logoColor=white)](https://portfolio-ci5f.vercel.app/assets/manish-resume.pdf)
+
+</div>
+
+---
+
+### 💬 What I'm Looking For
+
+<div align="center">
+
+| 💼 | 📚 | 🤝 | 💡 |
+|:---:|:---:|:---:|:---:|
+| **Full-Time Roles** | **Knowledge Sharing** | **Collaboration** | **Project Discussions** |
+| Data Analyst / ML Engineer | Mentoring & Learning | Open Source Projects | Feedback & Ideas |
+
+</div>
+
+---
+
+### 📱 Quick Contact Info
+
+<div align="center">
+
+```
+📧 Email    : manishkshyp0123@gmail.com
+🔗 LinkedIn : linkedin.com/in/manish-kashyap
+💻 GitHub   : github.com/Manish-kashyap
+🌐 Portfolio: portfolio-ci5f.vercel.app
+📍 Location : India 🇮🇳
+```
 
 </div>
 
 ---
 
 <!-- ====================================================== -->
-<!--              RANDOM QUOTE & FOOTER                     -->
+<!--              FOOTER & CLOSING                          -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-### ⭐ If you find my work valuable, please consider giving it a star!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting+my+profile!;Let%27s+connect+and+collaborate;Happy+to+help+with+data+projects" alt="Closing Message">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=800&lines=Data+is+the+new+oil;Insights+drive+innovation;Let's+build+something+amazing+together!" alt="Quote">
+<br/>
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
 
 <br/>
 
 **Made with ❤️ by Manish Kashyap**
+
+*Open to opportunities | Data Analyst | AI & ML Enthusiast*
 
 </div>
 

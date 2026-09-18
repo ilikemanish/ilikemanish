@@ -1,12 +1,14 @@
 <div align="center">
 
 <!-- ====================================================== -->
-<!--                    HEADER SECTION                      -->
+<!--             ANIMATED GREETING & HEADER                 -->
 <!-- ====================================================== -->
 
-# 🚀 Hi, I'm Manish Kashyap 👋
+<h1>
+  Hi there, I'm Manish Kashyap <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="38" alt="Waving Hand" />
+</h1>
 
-### **Data Analyst • AI & ML Engineer • Business Intelligence**
+**`Data Analyst`** • **`AI & ML Engineer`** • **`Business Intelligence`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=true&width=950&height=60&lines=Ex-Data+Analyst+Intern+%40+3Skill+%7C+2-Month+Internship+Completed;B.Tech+CSE+%28AI%2FML%2FDL%29+%40+TMU;Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+EDA+%7C+Data+Visualization+%7C+KPI+Reporting;Turning+Raw+Data+into+Actionable+Business+Insights+%F0%9F%93%88;Open+to+Full-Time+Data+Analyst+Opportunities+%F0%9F%9A%80" alt="Typing Animation" />
 
@@ -34,7 +36,7 @@
 
 Hi, I'm **Manish Kashyap**, an aspiring **Data Analyst** with a strong foundation in **Data Analytics, Business Intelligence, Python, SQL, Excel, Power BI, Tableau, and AI/ML**.
 
-I recently completed a **2-month Data Analyst Internship at 3Skill**, where I worked with data analysis, reporting, visualization, and business insights.
+I recently completed a **2-month Data Analyst Internship at 3Skill**, where I worked with data analysis, reporting, visualization, and business insights. 
 
 I enjoy transforming **raw and complex datasets into meaningful insights, interactive dashboards, and data-driven business decisions.**
 
@@ -46,7 +48,7 @@ I enjoy transforming **raw and complex datasets into meaningful insights, intera
 <!--                 TERMINAL CARD                          -->
 <!-- ====================================================== -->
 
-### 👨‍💻 Terminal Intro Card
+### 🚀 Terminal Profile
 
 ```yaml
 manish@analytics:~$ whoami

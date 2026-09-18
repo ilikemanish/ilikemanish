@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Manish%20Kashyap&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Business%20Intelligence&descAlignY=55&descSize=18" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Manish%20Kashyap&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Business%20Intelligence&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
 
-<!-- Typing Animation (Fixed Overlap by making it type one by one) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=800&lines=Ex-Data+Analyst+Intern+%40+3Skill+(2+Months);B.Tech+CSE+(AI%2FML%2FDL)+%40+TMU;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%88;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Dynamic Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=800&lines=Ex-Data+Analyst+Intern+%40+3Skill+(2+Months);B.Tech+CSE+(AI%2FML%2FDL)+%40+TMU;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%88;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing Banner" />
 
-<br/>
+<br/><br/>
 
-<!-- Neon Social Badges -->
+<!-- Action Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C6FF?style=for-the-badge&labelColor=0f2027)](https://portfolio-ci5f.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-2c5364?style=for-the-badge&labelColor=0f2027)](https://portfolio-ci5f.vercel.app/assets/manish-resume.pdf)
 [![Email](https://img.shields.io/badge/✉️_Email-Contact_Me-00C6FF?style=for-the-badge&labelColor=0f2027)](mailto:manishkshyp0123@gmail.com)

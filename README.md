@@ -4,7 +4,7 @@
 <!--                    HEADER SECTION                      -->
 <!-- ====================================================== -->
 
-# 🚀 Hi, I'm Manish Kashyap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving" width="35" height="35" />
+# 🚀 Hi, I'm Manish Kashyap 👋
 
 ### **Data Analyst • AI & ML Engineer • Business Intelligence**
 

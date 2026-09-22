@@ -1,173 +1,134 @@
 <div align="center">
 
-# manish-kashyap
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated Developer">
 
-# 👋 Manish Kashyap
+# 👋 Hello, I'm **Manish Kashyap**
 
-### 📊 Aspiring Data Analyst | 🤖 AI & ML Enthusiast | 💡 Data-Driven Problem Solver
-
-**Final Year B.Tech CSE (AI/ML/DL) @ Teerthanker Mahaveer University**
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=true&width=900&lines=Aspiring+Data+Analyst;Turning+Raw+Data+Into+Insights;Building+Data-Driven+Solutions;AI+%26+ML+Enthusiast" alt="Typing Header">
-
-### ✨ **Turning Raw Data Into Actionable Insights** ✨
+<!-- Animated Typewriter Effect -->
+<a href="https://portfolio-ci5f.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+📊;Transforming+Data+Into+Actionable+Insights+💡;Skilled+in+Python,+SQL,+Power+BI+%26+Tableau+📈;B.Tech+CSE+(AI%2FML%2FDL)+%40+TMU+🎓" alt="Typing SVG" />
+</a>
 
 <br>
+
+<!-- Social & Contact Badges -->
+<a href="https://portfolio-ci5f.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00C6FF?style=for-the-badge&logo=Web&logoColor=white">
+</a>
+<a href="https://wa.me/919568110788">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/manish-kashyap">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:manishkshyp0123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=Manish-kashyap&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🔗 Quick Links
+<table align="center" style="border: none;">
+  <tr>
+    <td width="65%">
+      <h2>👨‍💻 About Me</h2>
+      An aspiring <b>Data Analyst</b> passionate about data analysis and visualization. I focus on extracting meaningful insights from complex data and presenting them in a clear, impactful, and storytelling way. <br><br>
+      <ul>
+        <li>🎓 <b>Education:</b> Pursuing B.Tech in Computer Science (Specialization: AI, Machine Learning, Deep Learning) at <b>Teerthanker Mahaveer University</b> (2023 - 2027).</li>
+        <li>💼 <b>Experience:</b> Data Analyst Intern at <b>3Skill</b> — Gained hands-on experience through real-world projects using Excel, SQL, Python, and Power BI.</li>
+        <li>🌱 <b>Focus Areas:</b> Data Analytics, Data Science, Machine Learning, Python.</li>
+        <li>🎯 <b>Core Strengths:</b> Critical Thinking | Team Leading | Decision Making | Storytelling | Collaborative.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnPpe/giphy.gif" width="300" alt="Data Analytics Gif">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ My Skills Hub
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>📊 Technical Proficiency</h3>
+      <code>Python    </code> <img src="https://geps.dev/progress/90?color=00C6FF" height="15" alt="90%" /> <br>
+      <code>MS Excel  </code> <img src="https://geps.dev/progress/90?color=00C6FF" height="15" alt="90%" /> <br>
+      <code>SQL       </code> <img src="https://geps.dev/progress/85?color=00C6FF" height="15" alt="85%" /> <br>
+      <code>Power BI  </code> <img src="https://geps.dev/progress/80?color=00C6FF" height="15" alt="80%" /> <br>
+      <code>Tableau   </code> <img src="https://geps.dev/progress/75?color=00C6FF" height="15" alt="75%" /> <br>
+      <code>Machine Learning</code> <img src="https://geps.dev/progress/60?color=00C6FF" height="15" alt="60%" />
+    </td>
+    <td width="50%">
+      <h3>⚙️ Tools & Technologies</h3>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects & Analytics Pipeline (Coming Soon)
+
+I am continuously building a multi-tool pipeline spanning database querying, cleaning, deep exploration, and interactive visualization dashboards.
+
+- 🔍 **Interactive Data Pipeline:** Comprehensive multi-tool project spanning SQL, Python, Excel, Power BI, and Tableau.
+- 🗄️ **Advanced SQL Queries & Optimization:** Complex database schemas, stored procedures, and optimized queries for large datasets.
+- 📈 **Business Intelligence Dashboard:** Interactive enterprise dashboards tracking revenue streams, YoY growth, and regional KPIs.
+- 🗺️ **Tableau Data Storytelling:** End-to-end data storytelling emphasizing geographical sales distribution and predictive trends.
+
+---
+
+## 📈 GitHub Analytics (Interactive)
 
 <div align="center">
-
-[🌐 **PORTFOLIO**](https://portfolio-ci5f.vercel.app/) • [📄 **RESUME**](https://portfolio-ci5f.vercel.app/assets/manish-resume.pdf) • [💼 **LINKEDIN**](https://www.linkedin.com/in/manish-kashyap) • [✉️ **EMAIL**](mailto:manishkshyp0123@gmail.com) • [💻 **GITHUB**](https://github.com/Manish-kashyap)
-
+  <a href="https://github.com/Manish-kashyap">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/Manish-kashyap">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-kashyap&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" width="48%">
+  </a>
 </div>
-
----
-
-## 📊 Key Metrics
-
-| Projects | Internship | Dashboards | Data Sets | Reports | Skills |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **10+** | **2 Months** | **5+** | **20K+** | **15+** | **15+** |
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm an **Aspiring Data Analyst & AI/ML Enthusiast** passionate about transforming complex data into meaningful business insights. With a strong foundation in statistics, programming, and business intelligence, I create data-driven solutions that solve real-world problems.
-
-**My Focus:** Data Analytics | Business Intelligence | Predictive Modeling | Data Visualization
-
----
-
-## 🛠️ Technical Skills
-
-### 📊 Data Analytics & Visualization
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🐍 Python Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009ACD?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-0078D4?style=for-the-badge&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Experience
-
-### 📊 Data Analyst Intern — 3Skill
-
-- 📈 **Data Analysis & Visualization** — Analyzed complex datasets to identify trends and patterns
-- 📊 **Dashboard Development** — Created 5+ interactive dashboards for stakeholder insights
-- 🔍 **Exploratory Data Analysis** — Performed EDA to uncover actionable business insights
-- 💡 **Problem Solving** — Applied data-driven approaches to solve real-world challenges
-- ⏱️ **Duration:** 2-Month Intensive Internship
-- 🎯 **Achievements:** Created 15+ analytical reports with measurable business impact
-
----
-
-## 🎓 Education
-
-### 🏫 Teerthanker Mahaveer University — Moradabad
-
-**B.Tech — Computer Science Engineering**
-
-- 🎯 **Specialization:** Artificial Intelligence, Machine Learning & Deep Learning
-- 📅 **Duration:** 2023 – 2027 (Final Year)
-- 📚 **Focus Areas:** Data Analytics, Business Intelligence, Machine Learning
-
----
-
-## 🎯 Core Competencies
-
-| Category | Skills |
-|:---------|:-------|
-| 📊 **Data Analytics** | Data Cleaning, EDA, Statistical Analysis, Data Profiling |
-| 📈 **Visualization** | Excel Advanced, Power BI, Tableau, Dashboard Design |
-| 🗄️ **Database** | SQL, MySQL, PostgreSQL, MongoDB, Query Optimization |
-| 🐍 **Programming** | Python, Pandas, NumPy, Data Manipulation |
-| 🤖 **AI & ML** | Machine Learning, Deep Learning, NLP, Computer Vision |
-| 💼 **BI & Strategy** | KPI Development, Business Analytics, Dashboarding |
-
----
-
-## 📚 Currently Learning
-
-```
-✓ Advanced SQL & Query Optimization
-✓ Power BI Mastery & Complex Dashboard Design
-✓ Advanced Excel Functions & Data Analysis
-✓ Statistical Modeling & Hypothesis Testing
-✓ Machine Learning Algorithms & Deployment
-✓ Business Intelligence Strategy & Implementation
-✓ Big Data Technologies (Apache Spark, Hadoop)
-```
-
----
-
-## 🌟 Support & Collaborate
-
+<br>
 <div align="center">
-
-### ⭐ Found this helpful? Please star this repository! ⭐
-
-Your support motivates me to create more amazing projects and content! 🚀
-
-<br>
-
-### 📬 Ways to Connect & Support:
-
-- ⭐ **Star this repository** — Help others discover my work!
-- 🔗 **Share with your network** — Spread the word about data analytics!
-- 💬 **Leave feedback** — Issues, suggestions, or improvements
-- 📧 **Connect on LinkedIn** — Let's grow together in the data community
-- 🤝 **Collaborate** — Open to exciting data projects
-- 📩 **Email me** — Let's discuss data analytics opportunities
-
-<br>
-
-[🌐 Portfolio](https://portfolio-ci5f.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/manish-kashyap) · [✉️ Email](mailto:manishkshyp0123@gmail.com) · [📂 GitHub](https://github.com/Manish-kashyap)
-
+  <a href="https://github.com/Manish-kashyap">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" width="50%">
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  
+<img src="https://media.giphy.com/media/iY8CRBdQXmZzweMpwCJ/giphy.gif" width="120" alt="Star Gif">
 
-### 💡 **Let's Turn Data Into Decisions!** 📊
+## 🌟 Rate My Repo! 
 
-**"In data we trust, in insights we grow, in analytics we lead"**
+If you found my profile interesting or liked any of my projects, I'd love your support! 
+**Feel free to rate this repository by leaving a ⭐ at the top right!**
 
-<br>
+<a href="https://github.com/Manish-kashyap">
+  <img src="https://img.shields.io/github/followers/Manish-kashyap?label=Follow%20Me&style=social" alt="GitHub followers">
+</a>
 
-Made with ❤️ by **Manish Kashyap**
-
-Open to opportunities, collaborations, and exciting data challenges! 🚀
-
----
-
-<sub>Last Updated: 2024 | Always Learning & Growing 🌱</sub>
+<p align="center">
+  <i>Turning Data Into Insights, One Line of Code at a Time.</i> <br>
+  <b>Thanks for stopping by! 🚀</b>
+</p>
 
 </div>

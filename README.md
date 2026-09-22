@@ -1,173 +1,337 @@
-<div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated Developer">
-# 👋 Hi there, I'm **Manish Kashyap**
-<!-- Advanced Animated Typewriter Effect -->
-<a href="https://portfolio-ci5f.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=I'm+an+Aspiring+Data+Analyst+📊;Transforming+Data+Into+Actionable+Insights+💡;Building+Data-Driven+Solutions+🤖;Passionate+about+AI,+Machine+Learning+%26+Deep+Learning+🚀" alt="Typing SVG" />
-</a>
-<br>
-<!-- Contact & Portfolio Connection Badges -->
-<a href="https://portfolio-ci5f.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Interactive_Portfolio-Click_Here-00C6FF?style=for-the-badge&logo=Web&logoColor=white&labelColor=0f2027">
-</a>
-<a href="https://wa.me/919568110788">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f2027">
-</a>
-<a href="mailto:manishkshyp0123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027">
-</a>
-<br><br>
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Manish-kashyap&style=for-the-badge&color=00C6FF&label=GLOBAL+VIEWS&labelColor=0f2027)
+<style>
+  .header-card {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.7) 0%, rgba(10, 10, 40, 0.8) 100%);
+    border-radius: 0;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-left: 4px solid #00C6FF;
+  }
+  
+  .username {
+    color: #666;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+  }
+  
+  .name-large {
+    font-size: 42px;
+    font-weight: 700;
+    color: #fff;
+    margin: 10px 0;
+  }
+  
+  .tagline-box {
+    background: linear-gradient(90deg, rgba(0, 198, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+    border-left: 4px solid #00C6FF;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+    color: #00C6FF;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .button-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .btn-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .btn-label {
+    color: #999;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    min-width: 100px;
+    font-weight: 600;
+  }
+  
+  .btn-link {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-purple {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+  }
+  
+  .btn-purple:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+  }
+  
+  .btn-blue {
+    background: linear-gradient(135deg, #0099cc 0%, #0077b5 100%);
+    color: white;
+  }
+  
+  .btn-blue:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 153, 204, 0.4);
+  }
+  
+  .btn-cyan {
+    background: linear-gradient(135deg, #00C6FF 0%, #0099cc 100%);
+    color: #000;
+    font-weight: 700;
+  }
+  
+  .btn-cyan:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 198, 255, 0.4);
+  }
+  
+  .stats-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    margin: 30px 0;
+  }
+  
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .stat-label {
+    color: #aaa;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .stat-row {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .stat-value {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  
+  .stat-value-purple {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+  }
+  
+  .stat-value-cyan {
+    background: linear-gradient(135deg, #00C6FF 0%, #0099cc 100%);
+    color: #000;
+  }
+</style>
+
+<div class="header-card">
+  <div class="username">manish-kashyap</div>
+  <div class="name-large">Manish Kashyap</div>
+  <div style="color: #ccc; font-size: 14px; margin: 10px 0; line-height: 1.6;">
+    📊 Aspiring Data Analyst | 🤖 AI & ML Enthusiast<br>
+    🎓 Final Year B.Tech CSE @ Teerthanker Mahaveer University
+  </div>
 </div>
+
+<div class="tagline-box">
+  ✨ Turning Raw Data Into Actionable Insights ✨
+</div>
+
 ---
+
+## 🔗 Connect & Explore
+
+<div class="btn-row">
+  <span class="btn-label">🌐 PORTFOLIO</span>
+  <a href="https://portfolio-ci5f.vercel.app/" class="btn-link btn-purple">VISIT NOW</a>
+</div>
+
+<div class="btn-row">
+  <span class="btn-label">💼 LINKEDIN</span>
+  <a href="https://www.linkedin.com/in/manish-kashyap" class="btn-link btn-blue">MANISH-KASHYAP</a>
+</div>
+
+<div class="btn-row">
+  <span class="btn-label">✉️ EMAIL</span>
+  <a href="mailto:manishkshyp0123@gmail.com" class="btn-link btn-cyan">MANISHKSHYP0123@GMAIL.COM</a>
+</div>
+
+<div class="btn-row">
+  <span class="btn-label">📄 RESUME</span>
+  <a href="https://portfolio-ci5f.vercel.app/assets/manish-resume.pdf" class="btn-link btn-purple">DOWNLOAD</a>
+</div>
+
+<div class="btn-row">
+  <span class="btn-label">💻 GITHUB</span>
+  <a href="https://github.com/Manish-kashyap" class="btn-link" style="color: #fff;">MANISH-KASHYAP</a>
+</div>
+
+---
+
+## 📊 Key Achievements
+
+<div class="stat-row">
+  <div class="stat-item">
+    <span class="stat-label">Projects</span>
+    <span class="stat-value stat-value-purple">10+</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">Dashboards</span>
+    <span class="stat-value stat-value-cyan">5+</span>
+  </div>
+</div>
+
+<div class="stat-row">
+  <div class="stat-item">
+    <span class="stat-label">Data Sets Analyzed</span>
+    <span class="stat-value stat-value-cyan">20K+</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">Analysis Reports</span>
+    <span class="stat-value stat-value-purple">15+</span>
+  </div>
+</div>
+
+<div class="stat-row">
+  <div class="stat-item">
+    <span class="stat-label">Technical Skills</span>
+    <span class="stat-value stat-value-cyan">15+</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">Internship Duration</span>
+    <span class="stat-value stat-value-purple">2 Months</span>
+  </div>
+</div>
+
+---
+
 ## 👨‍💻 About Me
-<table align="center" style="border: none;">
-  <tr>
-    <td width="65%">
-      <p>A dynamic, final-year <b>B.Tech Computer Science Engineering student</b> specializing in <b>Artificial Intelligence, Machine Learning & Deep Learning</b> at <b>Teerthanker Mahaveer University</b> (Expected Graduation: 2027).</p>
-      <p>I'm deeply passionate about the complete data lifecycle: from <b>Data Analytics and Storytelling</b> to <b>Business Intelligence and Predictive Modeling</b>. I enjoy diving into complex datasets, uncovering meaningful patterns, creating beautiful visualizations, and building data-driven solutions to solve real-world problems.</p>
-      <ul style="list-style-type: none;">
-        <li>🎓 <b>Final Year B.Tech CSE (AI/ML/DL)</b></li>
-        <li>💼 <b>2-Month Data Analyst Internship @ 3Skill</b></li>
-        <li>📈 <b>Open to Opportunities in Data & AI</b></li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPpe/giphy.gif" width="280" alt="Data Analytics Gif">
-    </td>
-  </tr>
-</table>
----
-## 🛠️ Technical Skills & Competencies
-<div align="center">
-### 📊 Dynamic Proficiency Tracker
-<table>
-  <tr>
-    <td width="48%">
-      <div align="center">
-        <code>Python </code> <img src="https://geps.dev/progress/90?color=00C6FF" height="15" alt="90%" /><br>
-        <code>Excel  </code> <img src="https://geps.dev/progress/90?color=00C6FF" height="15" alt="90%" /><br>
-        <code>SQL    </code> <img src="https://geps.dev/progress/85?color=00C6FF" height="15" alt="85%" /><br>
-        <code>Power BI</code> <img src="https://geps.dev/progress/80?color=00C6FF" height="15" alt="80%" /><br>
-        <code>Tableau </code> <img src="https://geps.dev/progress/75?color=00C6FF" height="15" alt="75%" /><br>
-        <code>Machine Learning</code> <img src="https://geps.dev/progress/60?color=00C6FF" height="15" alt="60%" />
-      </div>
-    </td>
-    <td width="52%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
-### 🧠 Core Competencies & Soft Skills
 
-| Category | High-Level Skills | Key Strengths |
-| :--- | :--- | :--- |
-| 📊 **Data** | EDA, Cleaning, Visualization, Statistics | Critical Thinking |
-| 🗄️ **Database** | SQL, MySQL, PostgreSQL, MongoDB | Team Leading |
-| 🤖 **AI / ML** | Machine Learning, Deep Learning, NLP, Computer Vision | Decision Making |
-| 💼 **BI** | KPI Reporting, Dashboarding, Storytelling | Collaborative & Communication |
+Hi! I'm **Manish Kashyap**, an aspiring **Data Analyst & AI/ML Enthusiast** specializing in transforming complex data into actionable business insights. 
+
+With expertise in data analytics, business intelligence, and machine learning, I'm passionate about:
+- 📊 **Data Analytics & Visualization**
+- 🤖 **Machine Learning & Deep Learning**
+- 💡 **Building Data-Driven Solutions**
+- 📈 **Business Intelligence**
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### 🐍 Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-009ACD?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-0078D4?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### Teerthanker Mahaveer University — Moradabad
+**B.Tech — Computer Science Engineering**
+- 🎯 **Specialization:** Artificial Intelligence, Machine Learning & Deep Learning
+- 📅 **Duration:** 2023 – 2027 (Final Year)
+- 📚 **Focus:** Data Analytics, Business Intelligence, Machine Learning
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — 3Skill
+
+- 📈 **Data Analysis & Visualization** — Analyzed 10K+ records to identify trends
+- 📊 **Dashboard Development** — Created 5+ interactive dashboards
+- 🔍 **Exploratory Data Analysis** — Performed EDA for business insights
+- 💡 **Problem Solving** — Applied data-driven approaches to business challenges
+- ⏱️ **Duration:** 2-Month Intensive Internship
+- 🎯 **Delivered:** 15+ analytical reports with measurable impact
+
+---
+
+## 📚 Currently Learning
+
+```
+✓ Advanced SQL & Query Optimization
+✓ Power BI Mastery & Complex Dashboards
+✓ Advanced Excel Functions & VBA
+✓ Statistical Modeling & Analysis
+✓ Machine Learning Algorithms
+✓ Business Intelligence Strategy
+✓ Big Data Technologies
+```
+
+---
+
+## ⭐ Support & Collaborate
+
+<div style="background: rgba(0, 198, 255, 0.1); border-left: 4px solid #00C6FF; padding: 20px; margin: 20px 0; border-radius: 4px;">
+
+### 🌟 Found this helpful? Please **star this repository**! ⭐
+
+Your support motivates me to create more amazing projects and content! 🚀
+
+**📬 Ways to Connect:**
+- ⭐ Star this repository — Help others discover it!
+- 🔗 Share with your network — Spread the word!
+- 💬 Leave feedback — Issues, suggestions, improvements
+- 📧 Connect on LinkedIn — Let's grow together!
+- 🤝 Collaborate — Open to exciting data projects!
 
 </div>
+
 ---
-## 🚀 Projects & Analytics Pipeline (Coming Soon)
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJ4bnFxeW04anBxNm92ZDF5b3N6MWFpOWlydGRwbmE4bGJmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="70" alt="Data Pipeline"><br>
-      <h3>🔍 Comprehensive Data Pipeline</h3>
-      <p>A complete multi-tool pipeline spanning database querying, data cleaning, deep exploration, and interactive visualization dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-ff9800?style=for-the-badge" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMzdWF4OG82M3U3b3NpeDdvNTMzaHh2bHdyanoxcm9rcW80b2MyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1n7c1FtdH6D5v8Sbw9/giphy.gif" width="70" alt="SQL"><br>
-      <h3>🗄️ Advanced SQL Optimization</h3>
-      <p>A collection of complex database schemas, stored procedures, and highly optimized queries designed for massive large-scale datasets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-ff9800?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/L8K62iO61K04M1jBtb/giphy.gif" width="70" alt="Dashboard"><br>
-      <h3>📈 Business Intelligence Dashboard</h3>
-      <p>Interactive enterprise dashboard highlighting revenue streams, YoY growth, and regional key performance indicators (KPIs).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white" />
-      </p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-ff9800?style=for-the-badge" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70" alt="Storytelling"><br>
-      <h3>🗺️ Tableau Data Storytelling</h3>
-      <p>End-to-end data storytelling emphasizing geographical sales distribution, predictive trends, and actionable business insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Storytelling-6f42c1?style=flat" />
-      </p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-ff9800?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
----
-## 📈 GitHub Analytics (Interactive)
+
 <div align="center">
-  <a href="https://github.com/Manish-kashyap">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manish-kashyap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" width="48%">
-  </a>
-  <a href="https://github.com/Manish-kashyap">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-kashyap&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" width="48%">
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Manish-kashyap">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" width="50%">
-  </a>
-</div>
----
-<div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXmZzweMpwCJ/giphy.gif" width="120" alt="Star Gif">
-## 🌟 Rate My Repo!
-If you found my profile interesting or liked my portfolio, I'd love your support!
-**Feel free to rate this repository by leaving a ⭐ at the top right!**
-<br>
-<a href="https://github.com/Manish-kashyap">
-  <img src="https://img.shields.io/github/followers/Manish-kashyap?label=Follow%20Me&style=social" alt="GitHub followers">
-</a>
-<a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram">
-</a>
-<br><br>
-<!-- Dynamic Animated Wave Greeting -->
-<img src="https://img.shields.io/badge/Thanks_for_Stopping_By!-👋-00C6FF?style=for-the-badge&labelColor=0f2027">
-<p align="center">
-  <i>Turning Data Into Insights, One Line of Code at a Time.</i> <br>
-  <b>Have a great day! 🚀</b>
-</p>
+
+### 💡 **Let's Turn Data Into Decisions!** 📊
+
+Made with ❤️ by **Manish Kashyap**
+
+Open to opportunities, collaborations, and exciting data challenges! 🚀
+
+Last Updated: 2024 | Always Learning & Growing 🌱
+
 </div>

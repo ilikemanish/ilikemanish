@@ -3,47 +3,59 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kashyap-32022a2aa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish-kashyap)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilikemanish)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilikemanish_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-ci5f.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919568110788)
 
-<!-- ✨ Premium animated intro -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🚀 PREMIUM PROFILE HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<a href="https://portfolio-ci5f.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+Into+Insights;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Business+Insights;Learning+%7C+Analyzing+%7C+Visualizing+%7C+Growing" alt="Typing animation: Aspiring Data Analyst">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=230&section=header&text=MANISH%20KASHYAP&fontSize=48&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20%26%20Business%20Intelligence&descAlignY=58&descSize=18&descColor=E2E8F0" width="100%" alt="Premium animated profile header"/>
+
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+Into+Insights;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Business+Insights;Analyze+%7C+Visualize+%7C+Communicate+%7C+Grow" alt="Animated typing header"/>
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/📊%20DATA%20ANALYST-0F172A?style=for-the-badge&labelColor=2563EB" alt="Data Analyst"/>
+  <img src="https://img.shields.io/badge/⚡%20SQL%20%7C%20PYTHON-111827?style=for-the-badge&labelColor=0891B2" alt="SQL Python"/>
+  <img src="https://img.shields.io/badge/📈%20POWER%20BI%20%7C%20EXCEL-111827?style=for-the-badge&labelColor=7C3AED" alt="Power BI Excel"/>
+</p>
 
 ### 📊 Aspiring Data Analyst | Data • Insights • Business Intelligence
 
-I'm an **Aspiring Data Analyst** focused on turning raw data into clear, meaningful insights that support better business decisions.  
-I enjoy working with **Excel, SQL, Python and data visualization** to clean, analyze and present data in an easy-to-understand way.  
-My goal is to continuously build practical analytics projects and grow into a professional who connects **data, dashboards and business problems**.
+I'm an **Aspiring Data Analyst** focused on transforming raw data into clear, meaningful insights that support better business decisions.  
+I enjoy working with **Excel, SQL, Python and Power BI** to clean, analyze and visualize data through practical projects.  
+My goal is to build analytics solutions that connect **data, dashboards and business problems** in a simple and impactful way.
 
-<!-- 💎 Premium CTA buttons -->
+<!-- 💎 Premium animated CTA buttons -->
 <p>
   <a href="https://portfolio-ci5f.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio">
+    <img src="https://img.shields.io/badge/🚀%20CLICK%20HERE%20%7C%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Click Here Portfolio">
   </a>
-  <a href="https://github.com/Manish-kashyap">
-    <img src="https://img.shields.io/badge/💻%20Explore%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
+  <a href="https://github.com/ilikemanish">
+    <img src="https://img.shields.io/badge/💻%20CLICK%20HERE%20%7C%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Click Here GitHub">
   </a>
   <a href="https://www.linkedin.com/in/manish-kashyap-32022a2aa">
-    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/💼%20CLICK%20HERE%20%7C%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Click Here LinkedIn">
   </a>
   <a href="mailto:manishkshyp0123@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+    <img src="https://img.shields.io/badge/✉️%20CLICK%20HERE%20%7C%20CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Click Here Contact">
   </a>
 </p>
 
-</div>
-
-**Transforming Raw Data into Actionable Insights | Data Analytics | Visualization | Business Intelligence**
+<img src="https://komarev.com/ghpvc/?username=ilikemanish&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<!-- ✨ Animated divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:06B6D4,100:7C3AED&height=4&section=header" width="80%" alt="Animated divider"/>
+</div>
 
 ## ⚡ Data Analyst Focus
 
@@ -157,7 +169,7 @@ Transform food delivery data into actionable insights with an interactive Excel 
   - 🏆 Top-performing categories identification
 
 **Technologies:** Excel, Pivot Tables, Data Visualization  
-**📁 Repository:** [Swiggy-Sales-Analysis-Dashboard](https://github.com/Manish-kashyap/Swiggy-Sales-Analysis-Dashboard)  
+**📁 Repository:** [Swiggy-Sales-Analysis-Dashboard](https://github.com/ilikemanish/Swiggy-Sales-Analysis-Dashboard)  
 **🌐 Live Demo:** [View Dashboard](https://ilikemanish.github.io/Swiggy-Sales-Analysis-Dashboard/)
 
 ---
@@ -175,7 +187,7 @@ Comprehensive retail analytics on 30,000+ synthetic records with advanced segmen
   - 📊 Customer retention metrics & repeat purchase behavior
 
 **Technologies:** Excel, Pivot Tables, VLOOKUP, Advanced Formulas  
-**📁 Repository:** [Decathlon-Retail-Sales-Customer-Analytics](https://github.com/Manish-kashyap/Decathlon-Retail-Sales-Customer-Analytics-Dashboard)  
+**📁 Repository:** [Decathlon-Retail-Sales-Customer-Analytics](https://github.com/ilikemanish/Decathlon-Retail-Sales-Customer-Analytics-Dashboard)  
 **🌐 Live Demo:** [View Dashboard](https://ilikemanish.github.io/Decathlon-Retail-Sales-Customer-Analytics-Dashboard/)
 
 ---
@@ -193,7 +205,7 @@ Statistical deep-dive into taxi trip data to maximize driver revenue.
   - 🎯 Profitable trip zone identification
 
 **Technologies:** Python, Pandas, NumPy, Statistical Analysis, Matplotlib  
-**📁 Repository:** [NYC-Taxi-Revenue-Maximization](https://github.com/Manish-kashyap/NYC-Taxi-Revenue-Maximization_Statistics)
+**📁 Repository:** [NYC-Taxi-Revenue-Maximization](https://github.com/ilikemanish/NYC-Taxi-Revenue-Maximization_Statistics)
 
 ---
 
@@ -210,7 +222,7 @@ Market analysis of 10,000+ apps to uncover success patterns.
   - 🏆 Category-wise performance analysis
 
 **Technologies:** Python, Pandas, NumPy, Seaborn, Matplotlib  
-**📁 Repository:** [Google-Play-Store-EDA](https://github.com/Manish-kashyap/Google_Play_Store-EDA)  
+**📁 Repository:** [Google-Play-Store-EDA](https://github.com/ilikemanish/Google_Play_Store-EDA)  
 **📊 Dataset:** [Kaggle Google Play Store](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 ---
@@ -228,7 +240,7 @@ Data-driven churn analysis to guide retention strategies.
   - 💡 Retention strategy recommendations
 
 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
-**📁 Repository:** [Customer-Churn-Analysis](https://github.com/Manish-kashyap/Customer_Churn_Analysis-Python-)
+**📁 Repository:** [Customer-Churn-Analysis](https://github.com/ilikemanish/Customer_Churn_Analysis-Python-)
 
 ---
 
@@ -245,7 +257,7 @@ Festival season sales optimization through demographic segmentation.
   - 📈 Inventory optimization insights
 
 **Technologies:** Python, Pandas, Matplotlib, Seaborn  
-**📁 Repository:** [Diwali-Sales-Analysis](https://github.com/Manish-kashyap/Diwali_Sales_Analysis-Python-)
+**📁 Repository:** [Diwali-Sales-Analysis](https://github.com/ilikemanish/Diwali_Sales_Analysis-Python-)
 
 ---
 
@@ -293,7 +305,7 @@ Festival season sales optimization through demographic segmentation.
 | Platform | Link |
 |----------|------|
 | 💼 **LinkedIn** | [Manish Kashyap](https://www.linkedin.com/in/manish-kashyap-32022a2aa) |
-| 🐙 **GitHub** | [Manish-kashyap](https://github.com/Manish-kashyap) |
+| 🐙 **GitHub** | [ilikemanish](https://github.com/ilikemanish) |
 | 📷 **Instagram** | [@ilikemanish_](https://www.instagram.com/ilikemanish_) |
 | 🌐 **Portfolio** | [portfolio-ci5f.vercel.app](https://portfolio-ci5f.vercel.app/) |
 | 💬 **WhatsApp** | [+91 9568110788](https://wa.me/919568110788) |
@@ -343,5 +355,15 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manish-kashyap
 **⭐ If you find my projects helpful, please consider giving them a star! ⭐**
 
 © 2024-2026 **Manish Kashyap** | All Rights Reserved
+
+</div>
+
+
+<!-- 🌊 Animated footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+
+**✨ Turning Raw Data Into Meaningful Insights • One Project At A Time ✨**
 
 </div>

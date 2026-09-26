@@ -333,8 +333,20 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manish-kashyap
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Manish-kashyap?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Manish-kashyap?style=social)
+<!-- 🔥 Live GitHub profile statistics -->
+<a href="https://github.com/ilikemanish">
+  <img src="https://img.shields.io/github/followers/ilikemanish?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/ilikemanish?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ilikemanish?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Stars"/>
+</a>
+<a href="https://github.com/ilikemanish?tab=repositories">
+  <img src="https://img.shields.io/github/repos/ilikemanish?label=Repositories&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Repositories"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ilikemanish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&rank_icon=github&theme=transparent&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="GitHub Statistics"/>
 
 </div>
 

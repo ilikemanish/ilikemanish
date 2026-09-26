@@ -345,9 +345,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manish-kashyap
 </a>
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ilikemanish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&rank_icon=github&theme=transparent&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="GitHub Statistics"/>
-
 </div>
 
 ---

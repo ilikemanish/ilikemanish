@@ -8,14 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-ci5f.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919568110788)
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 🚀 PREMIUM PROFILE HEADER                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=230&section=header&text=MANISH%20KASHYAP&fontSize=48&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20%26%20Business%20Intelligence&descAlignY=58&descSize=18&descColor=E2E8F0" width="100%" alt="Premium animated profile header"/>
-
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+Into+Insights;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Business+Insights;Analyze+%7C+Visualize+%7C+Communicate+%7C+Grow" alt="Animated typing header"/>
 </a>

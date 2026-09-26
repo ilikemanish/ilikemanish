@@ -20,9 +20,7 @@
 
 ### 📊 Aspiring Data Analyst | Data • Insights • Business Intelligence
 
-I'm an **Aspiring Data Analyst** focused on transforming raw data into clear, meaningful insights that support better business decisions.  
-I enjoy working with **Excel, SQL, Python and Power BI** to clean, analyze and visualize data through practical projects.  
-My goal is to build analytics solutions that connect **data, dashboards and business problems** in a simple and impactful way.
+I'm an Aspiring Data Analyst passionate about turning raw data into actionable insights. Skilled in Excel, SQL, Python & Power BI, I enjoy building dashboards and solving business problems with data.
 
 <!-- 💎 Premium animated CTA buttons -->
 <p>

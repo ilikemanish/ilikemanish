@@ -340,6 +340,7 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manish-kashyap
 <a href="https://github.com/ilikemanish?tab=repositories">
   <img src="https://img.shields.io/github/stars/ilikemanish?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Stars"/>
 </a>
+<br><br>
 </div>
 ---
 

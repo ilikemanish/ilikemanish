@@ -8,11 +8,52 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-ci5f.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919568110788)
 
+<!-- ✨ Premium animated intro -->
+<div align="center">
+
+<a href="https://portfolio-ci5f.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+Into+Insights;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Business+Insights;Learning+%7C+Analyzing+%7C+Visualizing+%7C+Growing" alt="Typing animation: Aspiring Data Analyst">
+</a>
+
+### 📊 Aspiring Data Analyst | Data • Insights • Business Intelligence
+
+I'm an **Aspiring Data Analyst** focused on turning raw data into clear, meaningful insights that support better business decisions.  
+I enjoy working with **Excel, SQL, Python and data visualization** to clean, analyze and present data in an easy-to-understand way.  
+My goal is to continuously build practical analytics projects and grow into a professional who connects **data, dashboards and business problems**.
+
+<!-- 💎 Premium CTA buttons -->
+<p>
+  <a href="https://portfolio-ci5f.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio">
+  </a>
+  <a href="https://github.com/Manish-kashyap">
+    <img src="https://img.shields.io/badge/💻%20Explore%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/manish-kashyap-32022a2aa">
+    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:manishkshyp0123@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+  </a>
+</p>
+
+</div>
+
 **Transforming Raw Data into Actionable Insights | Data Analytics | Visualization | Business Intelligence**
 
 </div>
 
 ---
+
+## ⚡ Data Analyst Focus
+
+<div align="center">
+
+| 🔎 Analyze | 📊 Visualize | 💡 Communicate |
+|:---:|:---:|:---:|
+| Find patterns in data | Build meaningful dashboards | Turn insights into decisions |
+
+</div>
 
 ## 📊 About Me
 

@@ -87,18 +87,24 @@ Business Decisions
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>📊 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 & 𝗕𝗜
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+📊 𝗩𝗜𝗦𝗨𝗔𝗟𝗜𝗭𝗔𝗧𝗜𝗢𝗡 & 𝗕𝗜
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>☁️ 𝗗𝗔𝗧𝗔 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+☁️ 𝗗𝗔𝗧𝗔 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦
 
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/></div>---
 
-<!-- ═══════════════════════════════════════════════════════════════ --><!--                       CORE SKILLS                              --><!-- ═══════════════════════════════════════════════════════════════ --><div align="center">🎯 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦
+<!-- ═══════════════════════════════════════════════════════════════ --><!--                       CORE SKILLS                              --><!-- ═══════════════════════════════════════════════════════════════ --><div align="center">
+
+🎯 𝗖𝗢𝗥𝗘 𝗦𝗞𝗜𝗟𝗟𝗦
 
 </div><table align="center">
 <tr>

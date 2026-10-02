@@ -1,363 +1,344 @@
-# 👋 Manish Kashyap - Aspiring Data Analyst
+<div align="center">👋 Hey, I'm Manish Kashyap
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kashyap-32022a2aa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilikemanish)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilikemanish_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-ci5f.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919568110788)
-
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+Into+Insights;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Building+Dashboards+%26+Business+Insights;Analyze+%7C+Visualize+%7C+Communicate+%7C+Grow" alt="Animated typing header"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=27&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%93%8A+Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Tableau+%7C+Statistics+%7C+Microsoft+Fabric;%F0%9F%92%A1+Turning+Data+Into+Insights;%F0%9F%9A%80+Analyze+%7C+Visualize+%7C+Communicate" alt="Typing SVG" />🧠 AI Student  |  📊 Aspiring Data Analyst  |  🚀 Data Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/📊%20DATA%20ANALYST-0F172A?style=for-the-badge&labelColor=2563EB" alt="Data Analyst"/>
-  <img src="https://img.shields.io/badge/⚡%20SQL%20%7C%20PYTHON-111827?style=for-the-badge&labelColor=0891B2" alt="SQL Python"/>
-  <img src="https://img.shields.io/badge/📈%20POWER%20BI%20%7C%20EXCEL-111827?style=for-the-badge&labelColor=7C3AED" alt="Power BI Excel"/>
-</p>
-
-### 📊 Aspiring Data Analyst | Data • Insights • Business Intelligence
-
-I'm an Aspiring Data Analyst passionate about turning raw data into actionable insights. Skilled in Excel, SQL, Python & Power BI, I enjoy building dashboards and solving business problems with data.
-
-<!-- 💎 Premium animated CTA buttons -->
-<p>
-  <a href="https://portfolio-ci5f.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20CLICK%20HERE%20%7C%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Click Here Portfolio">
+  <a href="https://www.linkedin.com/in/manish-kashyap-32022a2aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ilikemanish">
-    <img src="https://img.shields.io/badge/💻%20CLICK%20HERE%20%7C%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Click Here GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/manish-kashyap-32022a2aa">
-    <img src="https://img.shields.io/badge/💼%20CLICK%20HERE%20%7C%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Click Here LinkedIn">
+  <a href="https://www.instagram.com/ilikemanish_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-ci5f.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:manishkshyp0123@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20CLICK%20HERE%20%7C%20CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Click Here Contact">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p><img src="https://komarev.com/ghpvc/?username=ilikemanish&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/></div>---
 
-<img src="https://komarev.com/ghpvc/?username=ilikemanish&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
+🧑‍💻 About Me
 
-</div>
+🎓 B.Tech CSE — Artificial Intelligence student at Teerthanker Mahaveer University
 
-<!-- ✨ Animated divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:06B6D4,100:7C3AED&height=4&section=header" width="80%" alt="Animated divider"/>
-</div>
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-## ⚡ Data Analyst Focus
+💡 I enjoy working with data to discover patterns, build dashboards, analyze business problems, and communicate insights visually.
 
-<div align="center">
+🚀 What I Do
 
-| 🔎 Analyze | 📊 Visualize | 💡 Communicate |
-|:---:|:---:|:---:|
-| Find patterns in data | Build meaningful dashboards | Turn insights into decisions |
+- 📊 Data Analysis & Exploratory Data Analysis
+- 🧹 Data Cleaning & Preprocessing
+- 🗄️ SQL Analysis & Querying
+- 📈 Dashboard Development
+- 📐 Statistical Analysis
+- 💻 Python-based Data Analytics
+- 📊 Business Intelligence & Data Storytelling
+- 🤖 Machine Learning Fundamentals
 
-</div>
-
-## 📊 About Me
-
-Hi! I'm **Manish Kashyap**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and driving data-informed business decisions.
-
-🎓 **B.Tech CSE (Artificial Intelligence)** student at Teerthanker Mahaveer University  
-📈 Skilled in **Excel, SQL, Python & Data Visualization**  
-🤖 Knowledge of **AI, Machine Learning & Statistics**  
-☁️ Familiar with **AWS Cloud** concepts  
-💡 Building real-world **Data Analytics & Dashboard Projects**  
-🚀 Currently improving my **SQL, Power BI & Business Analytics** skills  
-🎯 **Goal:** To start my career as a Data Analyst and solve real-world problems using data
-
-> **"Turning Data into Insights, Insights into Decisions." 📊💡**
+«💬 "Turning Data into Insights, and Insights into Decisions." 📊💡»
 
 ---
 
-## 🛠️ Technical Skills
+⚡ My Data Analytics Journey
 
-### **Data Analysis & Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### **Data Visualization & BI Tools**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-### **Cloud & Databases**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-### **Core Competencies**
-- ✅ Data Cleaning & Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Statistical Analysis & Hypothesis Testing
-- ✅ ETL Pipeline Development
-- ✅ Dashboard Design & Development
-- ✅ Business Intelligence
-- ✅ Data Visualization & Storytelling
-- ✅ Machine Learning Basics
+Raw Data
+   ↓
+🧹 Clean
+   ↓
+🔍 Explore
+   ↓
+📐 Analyze
+   ↓
+📊 Visualize
+   ↓
+💡 Generate Insights
+   ↓
+🚀 Support Better Decisions
 
 ---
 
-## 📚 Education & Certifications
+🛠️ Tech Stack
 
-### **Academic Background**
+📊 Data Analysis & Programming
 
-#### **B.Tech Computer Science Engineering (AI)**
-**Teerthanker Mahaveer University, Moradabad**  
-📅 2023 - 2027  
-**Specialization:** Artificial Intelligence, Machine Learning, Deep Learning  
-**Focus Areas:** Data Analytics, Data Science, Machine Learning, Python
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>📈 Visualization & Business Intelligence
 
-#### **Senior Secondary Education (CBSE)**
-**St Anthony's Sr Sec School, Dugawar**  
-📅 10th Grade (2021) | 12th Grade (2023)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>☁️ Cloud, Databases & Data Platforms
 
----
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>🧠 Core Skills
 
-### **Professional Experience**
-
-#### **Data Analyst Intern**
-**3Skill** | 2 Months Duration  
-Gained hands-on experience in Data Analytics through real-world projects  
-**Tools Used:** Excel, SQL, Python, Power BI  
-[📜 View Certificate](https://portfolio-ci5f.vercel.app/assets/3skill-cert.pdf)
-
----
-
-### **Certifications & Achievements**
-- ✅ 3Skill Data Analytics Internship Certificate
-- ✅ Google Data Analytics Related Certifications
-- ✅ Multiple Data Analysis & Visualization Certificates
-- ✅ Python & SQL Proficiency Certifications
-- ✅ Machine Learning Basics Course Completion
-
-*For complete list of certifications, visit my [Portfolio](https://portfolio-ci5f.vercel.app/)*
-
----
-
-## 🚀 Featured Projects
-
-### 1. **Swiggy Sales Analysis Dashboard**
-**Interactive Excel Dashboard | Business Intelligence**
-
-Transform food delivery data into actionable insights with an interactive Excel dashboard.
-
-- **Impact:** Uncovered key ordering trends & revenue metrics
-- **Dataset:** 1000+ food delivery transactions
-- **Key Features:**
-  - 📊 Dynamic Pivot Tables & Charts
-  - 🔍 Interactive Slicers for filtering by city, restaurant & time
-  - 📈 Revenue trends & customer preference analysis
-  - 🏆 Top-performing categories identification
-
-**Technologies:** Excel, Pivot Tables, Data Visualization  
-**📁 Repository:** [Swiggy-Sales-Analysis-Dashboard](https://github.com/ilikemanish/Swiggy-Sales-Analysis-Dashboard)  
-**🌐 Live Demo:** [View Dashboard](https://ilikemanish.github.io/Swiggy-Sales-Analysis-Dashboard/)
+🔎 Area| 💡 Skills
+📊 Data Analysis| EDA, Statistical Analysis, Data Cleaning
+🗄️ SQL| Queries, Joins, Aggregations, Data Analysis
+📈 Visualization| Power BI, Tableau, Excel, Matplotlib, Seaborn
+🐍 Python| Pandas, NumPy, Data Analysis
+📐 Statistics| Descriptive Statistics, Hypothesis Testing
+🔄 Data Processing| ETL, Data Cleaning, Transformation
+💼 Business Intelligence| KPI Analysis, Dashboard Development
+🤖 AI/ML| Machine Learning Fundamentals
 
 ---
 
-### 2. **Decathlon Sales & Customer Analytics**
-**Excel Analytics Dashboard | Retail BI**
+💼 Professional Experience
 
-Comprehensive retail analytics on 30,000+ synthetic records with advanced segmentation.
+📊 Data Analyst Intern — 3Skill
 
-- **Impact:** Transformed 30k+ records into actionable business insights
-- **Key Metrics:**
-  - 💰 Total Sales & Average Order Value (AOV) tracking
-  - 👥 Customer segmentation for targeted marketing
-  - 📦 Product category performance analysis
-  - 📊 Customer retention metrics & repeat purchase behavior
+Duration: 2 Months
 
-**Technologies:** Excel, Pivot Tables, VLOOKUP, Advanced Formulas  
-**📁 Repository:** [Decathlon-Retail-Sales-Customer-Analytics](https://github.com/ilikemanish/Decathlon-Retail-Sales-Customer-Analytics-Dashboard)  
-**🌐 Live Demo:** [View Dashboard](https://ilikemanish.github.io/Decathlon-Retail-Sales-Customer-Analytics-Dashboard/)
+Gained hands-on experience in Data Analytics through real-world projects involving:
 
----
+"Excel" • "SQL" • "Python" • "Power BI"
 
-### 3. **NYC Taxi Revenue Analysis**
-**Python | Statistical Analysis | EDA**
+🔹 Data cleaning and preprocessing
+🔹 Data analysis and visualization
+🔹 Dashboard development
+🔹 Business-oriented insights
 
-Statistical deep-dive into taxi trip data to maximize driver revenue.
-
-- **Impact:** Found ways to maximize daily driver earnings by 20%+
-- **Analysis Focus:**
-  - 🚕 Fare variable identification & correlation analysis
-  - ⏰ Optimal operating timeframes discovery
-  - 💵 Tip rate patterns by time & location
-  - 🎯 Profitable trip zone identification
-
-**Technologies:** Python, Pandas, NumPy, Statistical Analysis, Matplotlib  
-**📁 Repository:** [NYC-Taxi-Revenue-Maximization](https://github.com/ilikemanish/NYC-Taxi-Revenue-Maximization_Statistics)
+📜 Certificate:
+"View Certificate" (https://portfolio-ci5f.vercel.app/assets/3skill-cert.pdf)
 
 ---
 
-### 4. **Google Play Store EDA**
-**Python | Exploratory Data Analysis**
+🎓 Education
 
-Market analysis of 10,000+ apps to uncover success patterns.
+🧠 B.Tech — Computer Science Engineering (Artificial Intelligence)
 
-- **Impact:** Identified key features of highly-rated apps
-- **Key Findings:**
-  - 📊 App size, pricing & ratings correlations
-  - ⭐ Factors contributing to high app ratings
-  - 📥 Download patterns & market trends
-  - 🏆 Category-wise performance analysis
+Teerthanker Mahaveer University, Moradabad
 
-**Technologies:** Python, Pandas, NumPy, Seaborn, Matplotlib  
-**📁 Repository:** [Google-Play-Store-EDA](https://github.com/ilikemanish/Google_Play_Store-EDA)  
-**📊 Dataset:** [Kaggle Google Play Store](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+📅 2023 – 2027
 
----
+Specialization: Artificial Intelligence • Machine Learning • Deep Learning
 
-### 5. **Customer Churn Analysis**
-**Python | Predictive Analytics**
+Focus Areas: Data Analytics • Data Science • Python • Machine Learning
 
-Data-driven churn analysis to guide retention strategies.
+📚 Senior Secondary Education
 
-- **Impact:** Identified key churn indicators for business strategy
-- **Analysis:**
-  - 📉 Churn pattern identification
-  - ⚠️ Risk profile creation for targeted interventions
-  - 📊 Customer lifecycle analysis
-  - 💡 Retention strategy recommendations
+St. Anthony's Sr. Sec. School, Dugawar
 
-**Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
-**📁 Repository:** [Customer-Churn-Analysis](https://github.com/ilikemanish/Customer_Churn_Analysis-Python-)
+📅 10th — 2021 | 12th — 2023
 
 ---
 
-### 6. **Diwali Sales Analysis**
-**Python | Retail Analytics**
+🚀 Featured Projects
 
-Festival season sales optimization through demographic segmentation.
+🍔 01 — Swiggy Sales Analysis Dashboard
 
-- **Impact:** Highlighted top 3 best-selling demographics
-- **Focus Areas:**
-  - 👥 Customer segmentation (age, gender, location)
-  - 🛍️ Product preference by demographic
-  - 🎯 Seasonal trend identification
-  - 📈 Inventory optimization insights
+📊 Excel | Business Intelligence | Dashboard
 
-**Technologies:** Python, Pandas, Matplotlib, Seaborn  
-**📁 Repository:** [Diwali-Sales-Analysis](https://github.com/ilikemanish/Diwali_Sales_Analysis-Python-)
+Interactive Excel dashboard designed to analyze food-delivery sales data.
 
----
+🔥 Highlights
 
-## 📊 Key Statistics
+- 📊 Pivot Tables & Pivot Charts
+- 🔍 Interactive Slicers
+- 📈 Revenue & sales trend analysis
+- 🏆 Category and restaurant analysis
+- 📍 City-wise analysis
 
-| Metric | Value |
-|--------|-------|
-| **GitHub Repositories** | 6+ Active Projects |
-| **Data Accuracy** | 99.8% |
-| **Rows Analyzed** | 100K+ |
-| **Dashboards Created** | 6+ Interactive Dashboards |
-| **Projects Completed** | 6+ End-to-End Analytics Projects |
-| **Certifications** | 7+ Professional Certificates |
+Tech: "Excel" "Pivot Tables" "Pivot Charts" "Data Visualization"
+
+🔗 "📁 View Repository" (https://github.com/ilikemanish/Swiggy-Sales-Analysis-Dashboard)
+
+🌐 "🚀 Live Dashboard" (https://ilikemanish.github.io/Swiggy-Sales-Analysis-Dashboard/)
 
 ---
 
-## 💡 Core Competencies
+🏃 02 — Decathlon Sales & Customer Analytics
 
-| Category | Skills |
-|----------|--------|
-| **Data Analysis** | EDA, Statistical Analysis, Data Cleaning, Data Validation |
-| **Programming** | Python, SQL, VBA, DAX |
-| **Visualization** | Power BI, Tableau, Excel Charts, Matplotlib, Seaborn |
-| **Tools** | Excel (Pivot Tables, VLOOKUP, Advanced Formulas), SQL Server |
-| **Cloud** | AWS Basics, Snowflake, Microsoft Fabric |
-| **Soft Skills** | Problem-Solving, Critical Thinking, Data Storytelling, Communication |
+📊 Excel | Retail Analytics | Business Intelligence
 
----
+Retail analytics project focused on sales, customers, products, and purchasing behavior.
 
-## 🎯 Current Focus
+🔥 Highlights
 
-- 🔄 Mastering **Advanced SQL** & Query Optimization
-- 📊 Deepening **Power BI & Tableau** Dashboard Development
-- 🤖 Strengthening **Machine Learning** Fundamentals
-- ☁️ Exploring **AWS Data Analytics** Services
-- 📈 Building **End-to-End Analytics Pipelines**
-- 💼 Preparing for **Full-Time Data Analyst** roles
+- 💰 Sales & Average Order Value analysis
+- 👥 Customer segmentation
+- 📦 Product category analysis
+- 🔁 Repeat purchase analysis
+- 📊 Interactive dashboard
+
+Tech: "Excel" "Pivot Tables" "VLOOKUP" "Advanced Formulas"
+
+🔗 "📁 View Repository" (https://github.com/ilikemanish/Decathlon-Retail-Sales-Customer-Analytics-Dashboard)
+
+🌐 "🚀 Live Dashboard" (https://ilikemanish.github.io/Decathlon-Retail-Sales-Customer-Analytics-Dashboard/)
 
 ---
 
-## 📬 Connect With Me
+🚕 03 — NYC Taxi Revenue Analysis
 
-<div align="center">
+🐍 Python | Statistics | EDA
 
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | [Manish Kashyap](https://www.linkedin.com/in/manish-kashyap-32022a2aa) |
-| 🐙 **GitHub** | [ilikemanish](https://github.com/ilikemanish) |
-| 📷 **Instagram** | [@ilikemanish_](https://www.instagram.com/ilikemanish_) |
-| 🌐 **Portfolio** | [portfolio-ci5f.vercel.app](https://portfolio-ci5f.vercel.app/) |
-| 💬 **WhatsApp** | [+91 9568110788](https://wa.me/919568110788) |
-| 📧 **Email** | manishkshyp0123@gmail.com |
+Statistical analysis of taxi trip data to explore revenue patterns and trip characteristics.
 
-</div>
+🔥 Analysis Areas
 
----
+- 🚕 Fare and trip analysis
+- ⏰ Time-based analysis
+- 💵 Tip pattern analysis
+- 📍 Location-based analysis
+- 📐 Correlation analysis
 
-## 🏆 Testimonials
+Tech: "Python" "Pandas" "NumPy" "Matplotlib" "Statistics"
 
-> *"Manish approaches data problems with clarity, precision, and attention to detail."*
-
-> *"He presents data in a simple and visually engaging way that is easy to understand."*
-
-> *"Manish's analytical work supports smarter, faster, and data-driven decision-making."*
+🔗 "📁 View Repository" (https://github.com/ilikemanish/NYC-Taxi-Revenue-Maximization_Statistics)
 
 ---
 
-## 📖 Let's Collaborate!
+📱 04 — Google Play Store EDA
 
-I'm actively looking for:
-- ✅ Data Analyst internships & full-time opportunities
-- ✅ Freelance data analysis & dashboard projects
-- ✅ Collaborative analytics projects
-- ✅ Learning opportunities with experienced mentors
+🐍 Python | Exploratory Data Analysis
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manish-kashyap-32022a2aa) or [WhatsApp](https://wa.me/919568110788)!
+Exploration of Google Play Store data to understand app categories, ratings, pricing, and downloads.
+
+🔥 Analysis Areas
+
+- ⭐ Ratings analysis
+- 📥 Download patterns
+- 💰 Pricing analysis
+- 📊 Category performance
+- 🔎 Feature relationships
+
+Tech: "Python" "Pandas" "NumPy" "Seaborn" "Matplotlib"
+
+🔗 "📁 View Repository" (https://github.com/ilikemanish/Google_Play_Store-EDA)
+
+📊 "Dataset — Kaggle" (https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 ---
 
-## 📈 GitHub Stats
+👥 05 — Customer Churn Analysis
 
-<div align="center">
+🐍 Python | Predictive Analytics
 
-<!-- 🔥 Live GitHub profile statistics -->
-<a href="https://github.com/ilikemanish">
-  <img src="https://img.shields.io/github/followers/ilikemanish?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/ilikemanish?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ilikemanish?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=18181B" alt="GitHub Stars"/>
-</a>
-<br><br>
-</div>
+Data-driven analysis of customer churn patterns and potential retention factors.
+
+🔥 Analysis Areas
+
+- 📉 Churn pattern analysis
+- ⚠️ Customer risk analysis
+- 📊 Customer lifecycle analysis
+- 💡 Retention insights
+
+Tech: "Python" "Pandas" "Scikit-learn" "Matplotlib" "Seaborn"
+
+🔗 "📁 View Repository" (https://github.com/ilikemanish/Customer_Churn_Analysis-Python-)
+
 ---
 
-<div align="center">
+🪔 06 — Diwali Sales Analysis
 
-### "Data is the new oil, but insights are the new gold."
+🐍 Python | Retail Analytics | EDA
 
-**⭐ If you find my projects helpful, please consider giving them a star! ⭐**
+Analysis of festival-season sales data to understand customer demographics and product preferences.
 
-© 2024-2026 **Manish Kashyap** | All Rights Reserved
+🔥 Analysis Areas
 
-</div>
+- 👥 Customer segmentation
+- 🛍️ Product preference analysis
+- 📍 Location analysis
+- 🎯 Demographic trends
+- 📈 Sales pattern analysis
 
+Tech: "Python" "Pandas" "Matplotlib" "Seaborn"
 
-<!-- 🌊 Animated footer -->
-<div align="center">
+🔗 "📁 View Repository" (https://github.com/ilikemanish/Diwali_Sales_Analysis-Python-)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+---
 
-**✨ Turning Raw Data Into Meaningful Insights • One Project At A Time ✨**
+📊 What I Love Working With
 
-</div>
+<div align="center">🧹 Clean| 🔍 Analyze| 📊 Visualize| 💡 Explain
+Raw Data| Patterns| Dashboards| Insights
+Excel| SQL| Power BI| Storytelling
+Python| Statistics| Tableau| Decisions
+
+</div>---
+
+🎯 Currently Learning
+
+📌 Advanced SQL
+📌 Power BI & DAX
+📌 Tableau
+📌 Microsoft Fabric
+📌 Advanced Statistics
+📌 Business Analytics
+📌 Machine Learning
+📌 End-to-End Data Pipelines
+
+---
+
+📚 Certifications & Learning
+
+- ✅ 3Skill Data Analytics Internship
+- ✅ Data Analyst 101
+- ✅ Python Certifications
+- ✅ SQL & Data Analytics Learning
+- ✅ Machine Learning Fundamentals
+- ✅ Data Visualization Learning
+
+🌐 "View Complete Portfolio" (https://portfolio-ci5f.vercel.app/)
+
+---
+
+📈 GitHub Activity
+
+<div align="center"><a href="https://github.com/ilikemanish">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilikemanish&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+</a><a href="https://github.com/ilikemanish">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilikemanish&layout=compact&hide_border=true&theme=tokyonight"/>
+</a><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilikemanish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>---
+
+🐍 Contribution Activity
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
+
+📊 GitHub Profile
+
+<div align="center"><a href="https://github.com/ilikemanish?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20Repositories-Explore-2563EB?style=for-the-badge"/>
+</a><a href="https://github.com/ilikemanish?tab=followers">
+<img src="https://img.shields.io/badge/👥%20Followers-Connect-06B6D4?style=for-the-badge"/>
+</a><a href="https://github.com/ilikemanish">
+<img src="https://img.shields.io/badge/⭐%20GitHub-ilikemanish-181717?style=for-the-badge&logo=github"/>
+</a></div>---
+
+🤝 Let's Connect
+
+<div align="center">💼 Looking for opportunities to learn, collaborate & grow in Data Analytics.
+
+<a href="https://www.linkedin.com/in/manish-kashyap-32022a2aa">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://portfolio-ci5f.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="mailto:manishkshyp0123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.instagram.com/ilikemanish_">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a></div>---
+
+<div align="center">🌟 Let's Turn Data Into Impact
+
+Analyze 🔍 • Visualize 📊 • Communicate 💡 • Grow 🚀
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Footer"/></div>
